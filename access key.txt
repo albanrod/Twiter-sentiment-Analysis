@@ -1,0 +1,4 @@
+consumer_key <- "EmKOeKqac9FAePmlNRO87GHgO" # Enter your consumer key
+  consumer_secret <- "cNew1tIMtuqi2aasazXQIylAoYushzUqUlQ98FYsPDajGVh048" # Enter your consumersecret
+  access_token <- "1573118539-txxfmASY31h8wiHUxuDgNuftc7hEG7OvUKps1xK" # Enter your access token
+  access_secret <- "HnCAHeE4bEEQHNgVBgE39hOmr0hSNjnGefG60OJTUs2sQ" # Enter your access secret
